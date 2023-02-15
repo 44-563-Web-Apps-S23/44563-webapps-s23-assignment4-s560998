@@ -40,3 +40,26 @@
     border-style: double;
     border-left: 10px solid rgb(0, 225, 255);
 }
+table 
+{
+    border:solid;
+    color:rgb(89, 0, 255);
+    border-style:solid;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    height: 100%;
+    width: 50%;
+    margin: 100px 13em 15pt 10%;
+    padding:10px;
+}  
+td, th 
+{
+    border: solid 1px;
+    text-align: center;
+    padding: 8px;
+    color:mediumvioletred;
+}  
+tr:nth-child(even) 
+{
+    background-color: #dddddd;
+}
