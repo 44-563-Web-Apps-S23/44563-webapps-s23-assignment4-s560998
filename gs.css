@@ -1,0 +1,27 @@
+h5
+{
+    color:seagreen
+}
+.speech
+{
+    color:black;
+    font:normal;
+    font-size: 12px;
+}
+.direction a:hover
+{
+    color:black;
+    font:bold;
+    font-size: 15px;
+    background-color:lightsteelblue;
+}
+.MRS.X
+{
+    font-style: bold;
+    color:mediumvioletred;
+}
+.MISS Y
+{
+    font-style: bold;
+    color:blueviolet
+}
