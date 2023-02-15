@@ -1,27 +1,42 @@
-h5
-{
-    color:seagreen
-}
 .speech
 {
     color:black;
-    font:normal;
-    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
 }
-.direction a:hover
+.direction
 {
     color:black;
-    font:bold;
-    font-size: 15px;
-    background-color:lightsteelblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    background-color:bisque;
 }
-.MRS.X
+.direction:hover
 {
-    font-style: bold;
-    color:mediumvioletred;
+    background-color:lightskyblue;
+    color: grey;
 }
-.MISS Y
+.mrsx
 {
-    font-style: bold;
-    color:blueviolet
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:mediumblue;   
+}
+.missy
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:orangered;  
+}
+.mrsx:hover 
+{
+    background-color: rgb(212, 0, 255);
+    color: rgb(255, 0, 0);
+    border-style: double;
+    border-left: 10px solid rgb(110, 40, 36);
+ }
+.missy:hover 
+{
+    background-color: rgb(98, 255, 0);
+    color: rgb(0, 148, 239);
+    border-style: double;
+    border-left: 10px solid rgb(0, 225, 255);
 }
