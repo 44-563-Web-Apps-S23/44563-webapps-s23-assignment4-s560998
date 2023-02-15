@@ -26,16 +26,22 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:orangered;  
 }
+
+
 .mrsx:hover 
 {
-    background-color: rgb(212, 0, 255);
-    color: rgb(255, 0, 0);
+    text-shadow: 2px 2px;
+    filter: blur(0.2px);
+    background-color: rgb(247, 224, 252);
+    color: rgb(33, 11, 11);
     border-style: double;
-    border-left: 10px solid rgb(110, 40, 36);
+    border-left: 10px solid rgb(109, 47, 44);
  }
 .missy:hover 
 {
-    background-color: rgb(98, 255, 0);
+    text-shadow: 2px 2px;
+    filter: blur(0.2px);
+    background-color: rgb(175, 215, 150);
     color: rgb(0, 148, 239);
     border-style: double;
     border-left: 10px solid rgb(0, 225, 255);
